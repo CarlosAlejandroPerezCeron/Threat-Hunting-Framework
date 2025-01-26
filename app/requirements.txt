@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+elasticsearch
+yara-python
+structlog
+pytest
+httpx
